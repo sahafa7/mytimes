@@ -1,0 +1,65 @@
+header {
+  position: fixed;
+  z-index: 20;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+div.logo {
+  display: flex;
+  color: MediumAquamrine;
+}
+
+nav {
+  display: flex;
+
+}
+
+div.main {
+  display: flex;
+}
+
+div.main-left {
+  width: 630px;
+  border: 3px solid Black;
+  display: flex;
+  background-image: url(https://sahafa7.github.io/mytimes/resources/images/img-myt-logo.jpg)
+}
+
+div.img-content {
+
+}
+
+div.img-contentearth {
+  background-image: url(https://sahafa7.github.io/mytimes/resources/images/img-story-2.png)
+}
+
+div.img-contentcamera {
+  background-image: url(https://sahafa7.github.io/mytimes/resources/images/img-story-3.png)
+}
+
+div.main-mid {
+  width: 300px;
+  border: 3px solid Black;
+  display: flex;
+
+}
+
+div.mid-content{
+
+}
+
+div.main-right {
+  width: 240px;
+  border: 3px solid Black;
+  display: flex;
+
+}
+
+div.right-content {
+
+}
